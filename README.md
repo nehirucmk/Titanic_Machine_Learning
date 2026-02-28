@@ -19,14 +19,14 @@ my goal is to see if you could survive the incident with the remaining data we h
 
 # results
 - **model accuracy**: 82.68%
-- **key insight**: gender was the most important aspect for surviving percentage. despite taking up 22% of the crew, 50% of the survivors were women since the ship had 20 lifeboats, 18 of them being used with the reasoning (according to norm) "women and children first". that's how mostly women survived the wreck.
+- **key insight**: gender was the most important aspect for surviving percentage. despite taking up 22% of the crew, 50% of the survivors were women since the ship had 20 lifeboats, 18 of them being used with the reasoning (according to norm) "women and children first". that's how mostly women survived the wreck. if you're a woman, you're more likely to survive using the boats (or jack's true love).
 
 # how to run
 1. clone the repository.
 2. install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-3. run the analysis script: python analysis.py
+3. run the following: python analysis.py
 
 # license
 this project is licensed under the MIT License.
