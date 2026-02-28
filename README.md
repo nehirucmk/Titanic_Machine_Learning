@@ -19,7 +19,7 @@ my goal is to see if you could survive the incident with the remaining data we h
 
 # results
 - **model accuracy**: 82.68%
-- **key insight**: gender was the most important aspect for surviving percentage since during the incident. despite taking up 22% of the crew, 50% of the survivors were women since the ship had 20 lifeboats, 18 of them being used with the reasoning "women and children first". that's how mostly women survived the wreck.
+- **key insight**: gender was the most important aspect for surviving percentage. despite taking up 22% of the crew, 50% of the survivors were women since the ship had 20 lifeboats, 18 of them being used with the reasoning "women and children first". that's how mostly women survived the wreck.
 
 # how to run
 1. clone the repository.
@@ -30,3 +30,4 @@ my goal is to see if you could survive the incident with the remaining data we h
 
 # license
 this project is licensed under the MIT License.
+
