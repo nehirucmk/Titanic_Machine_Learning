@@ -11,6 +11,10 @@ my goal is to see if you could survive the incident with the remaining data we h
 - **Seaborn & Matplotlib** for data visualization
 - **Scikit-learn** for machine learning modeling
 
+## dataset
+the dataset used in this project is the classic **Titanic - Machine Learning from Disaster**.
+- **source:** [Titanic.csv on GitHub](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
+
 # methodology
 1. *EDA* for understanding the impact of features like gender and class on survival rates
 2. *data cleaning* for handling missing values for 'Age' and 'Embarked' columns
@@ -30,5 +34,6 @@ my goal is to see if you could survive the incident with the remaining data we h
 
 # license
 this project is licensed under the MIT License.
+
 
 
